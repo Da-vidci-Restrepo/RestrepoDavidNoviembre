@@ -10,4 +10,12 @@ b1{
 }
 section{
 	background: #cab;
+	width: 100%;
+	height: 955px;
+}
+img{
+	width: 500px;
+	height: 400px;
+	display: block;
+	margin: auto;
 }
